@@ -8,7 +8,6 @@ function App() {
       <p>Hello</p>
       <p>Hello</p>
       <p>Hello</p>
-      <p>Hello</p>
       <span>Gooroo</span>
       <span>Gooroo</span>
       <span>Gooroo</span>
